@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "title": "Complete project proposal",
+        "description": "Write a detailed project proposal for the upcoming client meeting",
+        "status": "En Proceso"
+    },
+    {
+        "id": 2,
+        "title": "Review code changes",
+        "description": "Review and provide feedback on the latest code changes made by the team",
+        "status": "Pendiente"
+    },
+    {
+        "id": 3,
+        "title": "Prepare presentation slides",
+        "description": "Create visually appealing slides for the upcoming conference presentation",
+        "status": "Terminada"
+    },
+    {
+        "id": 4,
+        "title": "Test application on different devices",
+        "description": "Perform thorough testing of the application on various devices and screen sizes",
+        "status": "En Proceso"
+    },
+    {
+        "id": 5,
+        "title": "Fix bug in user registration process",
+        "description": "Investigate and fix the bug reported by users during the registration process",
+        "status": "Pendiente"
+    },
+    {
+        "id": 6,
+        "title": "Update documentation",
+        "description": "Update the project documentation with the latest changes and improvements",
+        "status": "Terminada"
+    },
+    {
+        "id": 7,
+        "title": "Optimize database queries",
+        "description": "Identify and optimize slow-performing database queries for improved application performance",
+        "status": "En Proceso"
+    },
+    {
+        "id": 8,
+        "title": "Implement new feature",
+        "description": "Implement a new feature requested by the client in the project roadmap",
+        "status": "Pendiente"
+    },
+    {
+        "id": 9,
+        "title": "Conduct user testing",
+        "description": "Organize and conduct user testing sessions to gather feedback on the application",
+        "status": "Terminada"
+    },
+    {
+        "id": 10,
+        "title": "Deploy application to production",
+        "description": "Prepare and deploy the application to the production environment for public use",
+        "status": "En Proceso"
+    }
+]

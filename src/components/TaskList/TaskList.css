@@ -1,7 +1,12 @@
 .task-list {
-    margin-top: 100px;
+    /*margin: 3rem;*/
 }
 
 .task-list h2{
-    margin-bottom: 10px;
+    margin-bottom: 20px;
+}
+
+.button-icon {
+    display: block;
+    padding: 10px 3px 10px 10px;
 }
