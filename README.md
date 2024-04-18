@@ -16,7 +16,7 @@ Entirily developed using chatGPT.
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/jokee/to-do_list_primereact_app.git
+    git clone https://github.com/Jokeestd/To-Do_List_PrimeReact_App.git
     ```
 
 2. Navigate to the project directory:
